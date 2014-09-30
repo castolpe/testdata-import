@@ -1,0 +1,13 @@
+output_study,output_dataset,output_version,output_variable,input_study,input_dataset,input_version,input_variable
+soep-test,apgen,v3,BMI,soep-test,ap,v3,ap35
+soep-test,apgen,v3,BMI,soep-test,ap,v3,ap36
+soep-test,bpgen,v3,BMI,soep-test,bp,v3,bp35
+soep-test,bpgen,v3,BMI,soep-test,bp,v3,bp36
+soep-test,cpgen,v3,BMI,soep-test,cp,v3,cp35
+soep-test,cpgen,v3,BMI,soep-test,cp,v3,cp36
+soep-test,ahgen,v3,averageinc,soep-test,ah,v3,ah10
+soep-test,bhgen,v3,averageinc,soep-test,bh,v3,bh10
+soep-test,chgen,v3,averageinc,soep-test,ch,v3,ch10
+soep-test,ahgen,v3,hhmitglieder,soep-test,ah,v3,ah02
+soep-test,bhgen,v3,hhmitglieder,soep-test,bh,v3,bh02
+soep-test,chgen,v3,hhmitglieder,soep-test,ch,v3,ch02
